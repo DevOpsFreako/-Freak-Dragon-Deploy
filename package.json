@@ -1,0 +1,14 @@
+{
+  "name": "freak-dragon-deploy",
+  "version": "1.0.0",
+  "description": "Creating Our First Web Application  For DevOps Learning And This Is AppVerion1 Also",
+  "main": "(index.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Kundra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
